@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     
     //MARK: Stored properties
-    let firstGradientColors = Gradient(colors: [Color.blue, Color.gray, Color.yellow])
+    let firstGradientColors = Gradient(colors: [Color.lightBlue, Color.mediumBlue, Color.darkerBlue, Color.deepBlue, Color.gray, Color.darkYellow])
     
     //MARK: Computed properties
     var body: some View {
